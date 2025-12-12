@@ -1,4 +1,3 @@
-# Suhrid-Marwah
 Hi, I'm Suhrid Marwah
 🚀 Frontend Developer | UI/UX Enthusiast | Python Learner
 
