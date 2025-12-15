@@ -1,55 +1,66 @@
-# Hi, I'm **Suhrid Marwah** 🚀  
-### Frontend Developer | UI/UX Enthusiast | Python Learner
+# Hi, I'm Suhrid Marwah 👋
 
-I love building clean, modern, and animated web experiences. Currently exploring **React**, improving my **UI/UX skills**, and actively learning & working on **Python**.
-
----
-
-## 🔥 What I Do
-
-- ✨ Build modern, smooth & interactive frontend interfaces  
-- 🎨 Focus on clean UI design & seamless user experiences  
-- 🧠 Learn + apply core JavaScript concepts deeply  
-- 🐍 Exploring Python for automation & future projects  
-- 📈 Aim to create meaningful and polished projects  
+🚀 **Frontend Developer** | 🎨 **UI/UX Enthusiast** | 🐍 **Python Learner**
 
 ---
 
-## 🧰 Tech Stack
+## 📊 GitHub Stats
 
-**Frontend:** HTML • CSS • JavaScript • React (learning)  
-**Design:** UI/UX • Animations  
-**Backend Learning:** Python basics  
-
----
-
-## 📌 Featured Projects
-
-### **📘 FocusFlow**  
-A modern productivity & study-tracking tool.
-
-### **🧭 Steady Steps OS**  
-A creative UI concept featuring smooth animations and a unique design approach.
-
-**More coming soon… 🚧**
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=suhr25&show_icons=true&theme=tokyonight&hide_border=false" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhr25&layout=compact&theme=tokyonight&hide_border=false"
+    height="170"
+  />
+</p>
 
 ---
 
-## 🎯 Currently Working On
+## 🔥 GitHub Streak
 
-- Sharpening **JavaScript & React**  
-- Making my projects **cleaner, faster & more professional**  
-- Learning **Python** consistently  
-
----
-
-## 🎓 Education
-
-**Student at — Polaris School Of Technology, Bengaluru**
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=suhr25&theme=tokyonight&hide_border=false" 
+    height="200"
+  />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
 
-📩 Feel free to explore my repositories — more projects coming soon!
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=suhr25&theme=tokyo-night&hide_border=false"
+  />
+</p>
 
+---
+
+## 🚀 About Me
+
+- 🌐 I love building clean, smooth and interactive frontend experiences  
+- 🎨 Passionate about modern UI/UX  
+- 🧠 Deeply learning JavaScript  
+- 🐍 Exploring Python for automation & logic building  
+
+---
+
+## 💡 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,git,github,vscode" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/suhr25">
+    <img src="https://img.shields.io/badge/GitHub-suhr25-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
