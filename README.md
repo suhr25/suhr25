@@ -30,7 +30,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img 
@@ -42,10 +42,10 @@
 
 ## 🚀 About Me
 
-- 🌐 I love building clean, smooth and interactive frontend experiences  
-- 🎨 Passionate about modern UI/UX  
-- 🧠 Deeply learning JavaScript  
-- 🐍 Exploring Python for automation & logic building  
+- 🌐 I enjoy building clean, smooth, and interactive frontend experiences  
+- 🎨 Passionate about modern UI/UX design principles  
+- 🧠 Actively deepening my understanding of JavaScript  
+- 🐍 Exploring Python for automation and logical problem-solving  
 
 ---
 
@@ -61,6 +61,6 @@
 
 <p align="center">
   <a href="https://github.com/suhr25">
-    <img src="https://img.shields.io/badge/GitHub-suhr25-blue?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-suhr25-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
