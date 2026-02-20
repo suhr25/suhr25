@@ -43,6 +43,15 @@
 
 ---
 
+## 📂 Curated Projects
+
+| Project | Essence | Tech Stack |
+| :--- | :--- | :--- |
+| **✨ FocusFlow** | A productivity sanctuary designed to help students manage tasks and find their flow. | JavaScript, HTML, CSS |
+| **🎬 Exponent** | A sleek, real-time Market Analyzer that lets users track stock prices, trends, news, and historical performance all in one place. | JS, API Integration |
+| **💰 Steady-Steps** | Steady Steps is your personal productivity command center, designed to turn chaotic days into focused achievements with a stunning, futuristic interface.| Python, JavaScript,CSS |
+| **💻 CareLink-Bharatr** | A sleek, minimalist tool to refine typing precision and speed with modern UI. | HTML, CSS, JS |
+
 ## 💡 Tech Stack
 
 <p align="center">
@@ -56,5 +65,12 @@
 <p align="center">
   <a href="https://github.com/suhr25">
     <img src="https://img.shields.io/badge/GitHub-suhr25-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/suhrid-marwah-25261109-cs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashnaa%20Seth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:suhridmarwah25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-suhridmarwah25-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
