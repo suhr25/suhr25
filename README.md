@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/GitHub-suhr25-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/suhrid-marwah-25261109-cs/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashnaa%20Seth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Suhrid%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:suhridmarwah25@gmail.com">
