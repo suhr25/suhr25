@@ -55,7 +55,7 @@
 ## 💡 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,rust,golang,git,github,vscode" />
 </p>
 
 ---
