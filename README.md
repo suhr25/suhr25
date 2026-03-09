@@ -1,6 +1,6 @@
 # Hi, I'm Suhrid Marwah 👋
 
-🚀 **Frontend Developer** | 🎨 **UI/UX Enthusiast** | 🐍 **Python Learner**
+🚀 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast** | 🐍 **Python and Rust Learner** | **Contributing In GSOC and ESOC's Org**
 
 ---
 
