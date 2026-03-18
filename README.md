@@ -1,6 +1,6 @@
-# Hi, I'm Suhrid Marwah 👋
+# Hi, I'm Suhrid Marwah 
 
-🚀 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast** | 🐍 **Python and Rust Learner** | **Contributing In GSOC and ESOC's Org**
+**Full-Stack Developer** |  **UI/UX Enthusiast** | **Python and Rust Learner** | **Contributing In GSOC and ESOC's Org**
 
 ---
 
