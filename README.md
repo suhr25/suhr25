@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suhr25&show_icons=true&theme=tokyonight" height="170" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img 
@@ -24,7 +24,7 @@
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🌐 I enjoy building clean, smooth, and interactive frontend experiences  
 - 🎨 Passionate about modern UI/UX design principles  
@@ -43,7 +43,7 @@
 
 ---
 
-## 📂 Curated Projects
+##  Curated Projects
 
 | Project | Essence | Tech Stack |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@
 | **💰 Steady-Steps** | Steady Steps is your personal productivity command center, designed to turn chaotic days into focused achievements with a stunning, futuristic interface.| Python, JavaScript,CSS |
 | **💻 CareLink-Bharatr** | A sleek, minimalist tool to refine typing precision and speed with modern UI. | HTML, CSS, JS |
 
-## 💡 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,rust,golang,git,github,vscode" />
@@ -60,7 +60,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/suhr25">
