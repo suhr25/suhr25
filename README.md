@@ -1,6 +1,6 @@
 # Hi, I'm Suhrid Marwah 
 
-**Full-Stack Developer** |  **UI/UX Enthusiast** | **Python and Rust Learner** | **Contributing In GSOC and ESOC's Org**
+**Full-Stack Developer** |  **UI/UX Enthusiast** | **Python and Rust** | **Contributing In GSOC, LFX and ESOC's Org**
 
 ---
 
@@ -36,10 +36,10 @@
 
 ## About Me
 
-- 🌐 I enjoy building clean, smooth, and interactive frontend experiences  
-- 🎨 Passionate about modern UI/UX design principles  
-- 🧠 Actively deepening my understanding of JavaScript  
-- 🐍 Exploring Python for automation and logical problem-solving  
+- I enjoy building clean, smooth, and interactive frontend experiences  
+- Passionate about modern UI/UX design principles  
+- Actively deepening my understanding of JavaScript  
+- Exploring Python for automation and logical problem-solving  
 
 ---
 
